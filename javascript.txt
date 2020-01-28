@@ -1,3 +1,5 @@
-String 
+﻿String 
 
 split(): wow
+
+concat(): 문자열 합치기
